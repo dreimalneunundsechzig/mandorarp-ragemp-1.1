@@ -25,3 +25,8 @@ https://mega.nz/file/WO5kyYRR#hAL8zvgFOzXdwVN7-Ufhb0tbAWKfb-o53swLCtMoEpo
 
 # Screenshot vom Register
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/590b882f-a908-4b26-abf7-fb1ca3d3d239" />
+
+# Mitwirkende
+- Discord: evelina54574_27939 (Game Designerin, Entwicklerin, App Deploymenterin)
+-  dreimalneunundsechzig (Game Designer, Entwickler)
+- fireninja (github: https://github.com/FireeNinjaa, Entwickler)
